@@ -31,6 +31,12 @@ const Footer = () => {
             <Link to='/'>FAQ</Link>
           </div>
         </div>
+        <div className='footer__content__github'>
+          <h4>
+            Proyect made by Franco Zeballos Dev. <br />
+            <a href='https://github.com/franco2325'> See my github.</a>
+          </h4>
+        </div>
       </div>
     </div>
   )
